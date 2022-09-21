@@ -1,0 +1,31 @@
+.home {
+    margin: 30px auto;
+    display: flex;
+    width: 80%;
+    background-color: #c5c5c5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  
+  .home-img {
+    width: 75%;
+    margin: 20px;
+  }
+
+  button a {
+    color: black;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 25%;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    margin: auto;
+  }
+  
+
+@media (max-width: 28.75em) {
+  .home {
+    display: grid;
+  }
+}

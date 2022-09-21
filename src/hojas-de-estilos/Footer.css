@@ -1,0 +1,61 @@
+
+.footer {
+    background-color: #12355B;
+    border-top: #F19A3E solid 10px;
+    text-align: center;
+    margin-bottom: auto;
+    padding: 50px;
+    margin-top: 100px;
+    width: 100%;
+  }
+  
+  a {
+    color: #FFFFFF;
+  }
+  
+  i {
+    color: #FFFFFF;
+  }
+  
+  .icon:hover {
+    background-color: #F19A3E;
+  }
+  
+  .icons-redes {
+    align-items: center;
+    margin-top: -20px;
+    margin-bottom: 30px;
+  }
+  
+  .icon-facebook {
+    background-color: #375496;
+    padding: 10px 15px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .icon-linkedin {
+    background-color: #0961B8;
+    padding: 10px 13px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .icon-github {
+    background-color: black;
+    padding: 10px 12px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .icon-instagram {
+    background-color: red;
+    padding: 10px 13px;
+    border-radius: 50%;
+  }
+  
+  .copy {
+    color: #FFFFFF;
+    font-size: 15px;
+  }
+  

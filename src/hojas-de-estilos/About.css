@@ -1,0 +1,39 @@
+
+span {
+  display: block;
+  font-family: monospace;
+  white-space: nowrap;
+  border-right: 4px solid;
+  width: 11ch;
+  animation: typing 2s steps(11), blink .5s infinite step-end alternate;
+  overflow: hidden;
+}
+
+@keyframes typing {
+  from { width: 0; }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+
+.sobre-mi {
+  display: flex;
+  width: auto;
+}
+  
+.sobre-texto {
+  margin: auto 30px;
+}
+  
+.gusti {
+  width: 50%;
+  margin: auto;
+}
+
+
+@media (max-width: 61.25em) {
+  .sobre-mi {
+    display: inline-block;
+  }
+}
