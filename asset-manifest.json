@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gustavo-olmos-portfolio/static/css/main.1ba19964.css",
-    "main.js": "/gustavo-olmos-portfolio/static/js/main.b697ee0e.js",
+    "main.js": "/gustavo-olmos-portfolio/static/js/main.c83639cf.js",
     "static/media/Gusti-Welcome.png": "/gustavo-olmos-portfolio/static/media/Gusti-Welcome.c9752fe79598cbe8e80b.png",
     "static/media/Responsive.png": "/gustavo-olmos-portfolio/static/media/Responsive.880055b1d97774b9faaa.png",
     "index.html": "/gustavo-olmos-portfolio/index.html",
     "main.1ba19964.css.map": "/gustavo-olmos-portfolio/static/css/main.1ba19964.css.map",
-    "main.b697ee0e.js.map": "/gustavo-olmos-portfolio/static/js/main.b697ee0e.js.map"
+    "main.c83639cf.js.map": "/gustavo-olmos-portfolio/static/js/main.c83639cf.js.map"
   },
   "entrypoints": [
     "static/css/main.1ba19964.css",
-    "static/js/main.b697ee0e.js"
+    "static/js/main.c83639cf.js"
   ]
 }
