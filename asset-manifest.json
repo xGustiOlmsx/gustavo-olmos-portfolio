@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GustavoOlmos/static/css/main.1ba19964.css",
+    "main.js": "/GustavoOlmos/static/js/main.8e3057b3.js",
+    "static/media/Gusti-Welcome.png": "/GustavoOlmos/static/media/Gusti-Welcome.c9752fe79598cbe8e80b.png",
+    "static/media/Responsive.png": "/GustavoOlmos/static/media/Responsive.880055b1d97774b9faaa.png",
+    "index.html": "/GustavoOlmos/index.html",
+    "main.1ba19964.css.map": "/GustavoOlmos/static/css/main.1ba19964.css.map",
+    "main.8e3057b3.js.map": "/GustavoOlmos/static/js/main.8e3057b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ba19964.css",
+    "static/js/main.8e3057b3.js"
+  ]
+}
