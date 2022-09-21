@@ -16,12 +16,13 @@ function App() {
       <Nav/>
       <Descripción/>
       <Routes>
+        <Route path="/" element={<Home/>}/>
         <Route path="/About" element={<About/>}/>
         <Route path="/Portfolio" element={<Portfolio/>}/>
         <Route path="/Servicios" element={<Servicios/>}/>
         <Route path="/Contactos" element={<Contactos/>}/>
         <Route path="/Home" element={<Navigate to="/"/>}/>
-        <Route path="/" element={<Home/>}/>
+        <Route path="*" element={<Home/>}/>
       </Routes>
       <Footer/>
     </BrowserRouter>
