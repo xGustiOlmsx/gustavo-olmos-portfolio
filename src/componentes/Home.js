@@ -1,6 +1,6 @@
 import React from 'react'
 import {NavLink} from 'react-router-dom';
-import Responsive from '../media/Responsive.png'
+import Responsive from '../media/Home/Responsive.png'
 import '../hojas-de-estilos/Home.css'
 
 export default function Home() {

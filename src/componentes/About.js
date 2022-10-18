@@ -1,5 +1,5 @@
 import React from 'react'
-import Gusti from '../media/Gusti-Welcome.png';
+import Gusti from '../media/About/Gusti-Welcome.png';
 import '../hojas-de-estilos/About.css'
 
 export default function Home() {

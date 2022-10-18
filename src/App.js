@@ -4,7 +4,6 @@ import Portfolio from "./componentes/Portfolio";
 import Contactos from "./componentes/Contactos";
 import Servicios from "./componentes/Servicios";
 import Nav from "./Nav";
-import Error404 from "./componentes/Error404";
 import Descripción from "./componentes/Descripción.js";
 import Footer from "./Footer";
 import './App.css';
