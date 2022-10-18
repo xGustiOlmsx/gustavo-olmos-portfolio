@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/gustavo-olmos-portfolio/static/css/main.1ba19964.css",
-    "main.js": "/gustavo-olmos-portfolio/static/js/main.7434591d.js",
+    "main.js": "/gustavo-olmos-portfolio/static/js/main.85b4f867.js",
     "static/media/Gusti-Welcome.png": "/gustavo-olmos-portfolio/static/media/Gusti-Welcome.c9752fe79598cbe8e80b.png",
+    "static/media/wordpress.jpg": "/gustavo-olmos-portfolio/static/media/wordpress.64eced3c221091f7f1ae.jpg",
+    "static/media/Diseño.webp": "/gustavo-olmos-portfolio/static/media/Diseño.ce911e2cc203ca10298d.webp",
     "static/media/Responsive.png": "/gustavo-olmos-portfolio/static/media/Responsive.880055b1d97774b9faaa.png",
+    "static/media/wordpress.webp": "/gustavo-olmos-portfolio/static/media/wordpress.eeb27d01f61d79647d4b.webp",
+    "static/media/seguridad.png": "/gustavo-olmos-portfolio/static/media/seguridad.f108d12b2f4846c2a20b.png",
+    "static/media/ISP20.jpg": "/gustavo-olmos-portfolio/static/media/ISP20.6ad117ccf14d546f9a09.jpg",
     "static/media/instagram.webp": "/gustavo-olmos-portfolio/static/media/instagram.af7bd217efdcead854d5.webp",
     "index.html": "/gustavo-olmos-portfolio/index.html",
     "main.1ba19964.css.map": "/gustavo-olmos-portfolio/static/css/main.1ba19964.css.map",
-    "main.7434591d.js.map": "/gustavo-olmos-portfolio/static/js/main.7434591d.js.map"
+    "main.85b4f867.js.map": "/gustavo-olmos-portfolio/static/js/main.85b4f867.js.map"
   },
   "entrypoints": [
     "static/css/main.1ba19964.css",
-    "static/js/main.7434591d.js"
+    "static/js/main.85b4f867.js"
   ]
 }
