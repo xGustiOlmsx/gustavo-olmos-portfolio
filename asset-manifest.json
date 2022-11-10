@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gustavo-olmos-portfolio/static/css/main.1ba19964.css",
-    "main.js": "/gustavo-olmos-portfolio/static/js/main.6ab97568.js",
+    "main.js": "/gustavo-olmos-portfolio/static/js/main.32e5e501.js",
     "static/media/Gusti-Welcome.png": "/gustavo-olmos-portfolio/static/media/Gusti-Welcome.c9752fe79598cbe8e80b.png",
     "static/media/wordpress.jpg": "/gustavo-olmos-portfolio/static/media/wordpress.64eced3c221091f7f1ae.jpg",
     "static/media/Diseño.webp": "/gustavo-olmos-portfolio/static/media/Diseño.ce911e2cc203ca10298d.webp",
@@ -12,10 +12,10 @@
     "static/media/instagram.webp": "/gustavo-olmos-portfolio/static/media/instagram.af7bd217efdcead854d5.webp",
     "index.html": "/gustavo-olmos-portfolio/index.html",
     "main.1ba19964.css.map": "/gustavo-olmos-portfolio/static/css/main.1ba19964.css.map",
-    "main.6ab97568.js.map": "/gustavo-olmos-portfolio/static/js/main.6ab97568.js.map"
+    "main.32e5e501.js.map": "/gustavo-olmos-portfolio/static/js/main.32e5e501.js.map"
   },
   "entrypoints": [
     "static/css/main.1ba19964.css",
-    "static/js/main.6ab97568.js"
+    "static/js/main.32e5e501.js"
   ]
 }
