@@ -1,11 +1,13 @@
 import React from 'react'
 import '../hojas-de-estilos/Servicios.css'
+// importo todas las imagenes que van a aparecer en servicios
 import Diseño from '../media/Servicios/Diseño.webp'
 import Wordpress from '../media/Servicios/wordpress.jpg'
 import Seguridad from '../media/Servicios/seguridad.png'
 import Desarrollo from '../media/Servicios/desarrollo.png'
 import Responsive from '../media/Servicios/responsive.jpg'
 
+// y después las llamo
 export default function Servicios() {
   return (
     <div>

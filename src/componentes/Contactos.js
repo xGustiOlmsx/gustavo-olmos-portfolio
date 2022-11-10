@@ -1,12 +1,13 @@
 import React from 'react'
 import '../hojas-de-estilos/Contactos.css'
+
 export default function Contactos() {
   return (
     <>
       <section id="contact" className="contact-section">
         <div className="contact-section-header">
-            <h2 className="scroll-h1a">Tomemos un café</h2>
-            <p className="scroll-pa">y trabajemos juntos</p>
+            <h2>Tomemos un café</h2>
+            <p>y trabajemos juntos</p>
         </div>
         <div className="contact-links">
             <a href="mailto:gustavoolmos002@gmail.com"

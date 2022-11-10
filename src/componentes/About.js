@@ -1,11 +1,15 @@
 import React from 'react'
+// importo la imagen de mi avatar que aparecerá en la sección about
 import Gusti from '../media/About/Gusti-Welcome.png';
 import '../hojas-de-estilos/About.css'
 
+// acá y en algunos otros componentes hago pruebas de "tailwind css"
+// sin embargo, por comodidad preferí seguir usando los archivos css
 export default function Home() {
   return (
     <div>
       <section className='sobre-mi'>
+        {/* acá en img llamo a "Gusti" el avatar que acabo de importar */}
         <img className='gusti' src={Gusti}/>
         <div className='sobre-texto'>
           <span className='text-8xl'>Sobre Gusti</span>

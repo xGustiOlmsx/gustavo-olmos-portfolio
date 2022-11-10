@@ -1,6 +1,7 @@
 import React from 'react'
 import '../hojas-de-estilos/Descripción.css'
 
+// esta descripcion aparecerá siempre en la página
 export default function Descripción() {
   return (
     <div>
