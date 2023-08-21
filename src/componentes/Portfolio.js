@@ -12,6 +12,12 @@ export default function Portfolio() {
     <div>
       <div className='container-cards'>
         <div className='card'>
+          <a target='_blank' href='https://xgustiolmsx.github.io/bocajuniorsapp/build/'>
+            <img src="https://www.prensa-latina.cu/wp-content/uploads/2021/12/Boca-Juniors.jpg" />
+            <h4>Boca Juniors - Fan Page</h4>
+          </a>
+        </div>
+        <div className='card'>
           <a target='_blank' href='https://celsoolmos.000webhostapp.com/'>
             <img src={wordpress} />
             <h4>Sitio en Wordpress</h4>
@@ -33,3 +39,5 @@ export default function Portfolio() {
     </div>
   )
 }
+
+
